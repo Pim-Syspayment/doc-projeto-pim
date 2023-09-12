@@ -1,3 +1,3 @@
 ## Diagrama Logico
 
-![Untitled](./images/Untitled%206.png)
+![Untitled](../images/Untitled%206.png)
