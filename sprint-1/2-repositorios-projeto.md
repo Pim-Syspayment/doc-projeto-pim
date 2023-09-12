@@ -2,12 +2,12 @@
 
 ## Desktop
 
-![Untitled](images/Untitled.png)
+![Untitled](./images/Untitled.png)
 
 ## Web
 
-![Untitled](images/Untitled%201.png)
+![Untitled](./images/Untitled%201.png)
 
 ## Mobile
 
-![Untitled](images/Untitled%202.png)
+![Untitled](./images/Untitled%202.png)
