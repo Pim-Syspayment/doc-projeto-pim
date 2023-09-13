@@ -1,8 +1,8 @@
 ## Diagrama Físico
 
-CREATE DATABASE syspayment2023;
+CREATE DATABASE syspayment;
 
-USE syspayment2023
+USE syspayment
 
 CREATE TABLE Funcionario_Usuario (
     id INTEGER IDENTITY(1,1) PRIMARY KEY NOT NULL,
