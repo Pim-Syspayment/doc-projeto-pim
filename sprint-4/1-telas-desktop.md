@@ -20,3 +20,11 @@ Tela de Perfil:
   ![Untitled](<../images/telassprint4%20(5).png>)
 - Remoção
   ![Untitled](<../images/telassprint4%20(6).png>)
+
+Tela de Cargo:
+
+![Untitled](<../images/telassprint4%20(8).png>)
+
+![Untitled](<../images/telassprint4%20(9).png>)
+
+![Untitled](<../images/telassprint4%20(10).png>)

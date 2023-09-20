@@ -59,7 +59,7 @@
   4. Criar
   5. Editar
   6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
-- [ ] Tela de Tabela de Cargo desktop **- Victor**
+- [x] Tela de Tabela de Cargo desktop **- Victor**
   1. Visualizar todos (Em tabela)
   2. Busca
   3. Visualizar individual
