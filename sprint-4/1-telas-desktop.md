@@ -2,6 +2,25 @@
 
 Menu:
 
-![Untitled](../images/menu.png)
+![Untitled](<../images/telassprint4%20(7).png>)
 
-Todas as telas:
+Menu:
+
+![Untitled]()
+
+Todas as telas / Navegação (Em branco):
+
+![Untitled](<../images/telassprint4%20(1).png>)
+
+Tela de Perfil:
+
+- Tabela
+  ![Untitled](<../images/telassprint4%20(2).png>)
+- Busca
+  ![Untitled](<../images/telassprint4%20(3).png>)
+- Edição
+  ![Untitled](<../images/telassprint4%20(4).png>)
+- Criação
+  ![Untitled](<../images/telassprint4%20(5).png>)
+- Remoção
+  ![Untitled](<../images/telassprint4%20(6).png>)
