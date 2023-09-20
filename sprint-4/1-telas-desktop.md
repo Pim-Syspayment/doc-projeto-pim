@@ -4,10 +4,6 @@ Menu:
 
 ![Untitled](<../images/telassprint4%20(7).png>)
 
-Menu:
-
-![Untitled]()
-
 Todas as telas / Navegação (Em branco):
 
 ![Untitled](<../images/telassprint4%20(1).png>)
