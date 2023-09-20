@@ -108,21 +108,21 @@
 
 ## Sprint Backlog 6 - (18/09 até 24/09)
 
-- [ ] Tela de Operações de funcionarios desktop
+- [ ] Tela de Operações de funcionarios desktop **- Matheus**
   1. Visualizar todos (Em tabela)
   2. Busca
   3. Visualizar individual
   4. Criar
   5. Editar
   6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
-- [ ] Tela de Holerites desktop
+- [ ] Tela de Holerites desktop **- Diego**
   1. Visualizar todos (Em tabela)
   2. Busca
   3. Visualizar individual
   4. Criar
   5. Editar
   6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
-- [ ] Tela de Folha de Pagamento desktop
+- [ ] Tela de Folha de Pagamento desktop **- João**
   1. Visualizar todos (Em tabela)
   2. Busca
   3. Visualizar individual
@@ -133,46 +133,45 @@
 - [ ] Projeto Escrito - Revisar o documento antigo, Refatorando com os pontos levantados pelos professores (Pedro)
 - [ ] Projeto Escrito - Adicionar o conteúdo do desenvolvimento do projeto do pim passado no pim novo
 - [ ] Projeto Escrito - INTRODUÇÃO
-- [ ] Projeto Escrito - Atividade Proposta de Extensão Universitária
-
-## Sprint backlog 7 - (25/09 até 01/10)
-
-- [ ] Tela de Login web
-- [ ] Menu (Tela principal) web
-- [ ] Tela do Perfil web
-- [ ] Tela de Operações web
-- [ ] Tela do Holerite (Tabela) web
-  1. Busca
-  2. Visualizar (Gerar pdf)
 - [ ] Projeto Escrito - PROGRAMAÇÃO ORIENTADA A OBJETOS II
 - [ ] Projeto Escrito - DESENVOLVIMENTO DE SOFTWARE PARA INTERNET
 - [ ] Projeto Escrito - TÓPICOS ESPECIAIS DE PROGRAMAÇÃO ORIENTADA A OBJETOS
+
+## Sprint backlog 7 - (25/09 até 01/10)
+
+- [ ] Tela de Login web **- João**
+- [ ] Menu (Tela principal) web **- Diego**
+- [ ] Tela do Perfil web **- João**
+- [ ] Tela de Operações web **- Diego**
+- [ ] Tela do Holerite (Tabela) web **- João**
+  1. Busca
+  2. Visualizar (Gerar pdf)
 - [ ] Projeto Escrito - PROJETO DE SISTEMAS ORIENTADO A OBJETOS
 - [ ] Projeto Escrito - GERENCIAMENTO DE PROJETO DE SOFTWARE
 - [ ] Projeto Escrito - EMPREENDEDORISMO
-
-## Sprint backlog 8 - (02/10 até 08/10)
-
-- [ ] Tela de Login mobile
-- [ ] Menu (Tela principal) mobile
-- [ ] Tela do Perfil mobile
-- [ ] Tela de Operações mobile
-- [ ] Tela do Holerite (Tabela) mobile
-  1. Busca
-  2. Visualizar (Gerar pdf)
 - [ ] Projeto Escrito - GESTÃO DA QUALIDADE
 - [ ] Projeto Escrito - CONCLUSÃO
 - [ ] Projeto Escrito - RESUMO
 - [ ] Projeto Escrito - REFERÊNCIAS
-- [ ] Projeto Escrito - Ajustes Finais no Documento
 - [ ] Projeto Escrito - Cenário bem detalhado (regras do negócio, glossário do sistema, pesquisa de programas no mercado e livros sobre o tema sistema para automatização total da folha de pagamento de uma empresa, análise do mercado). Definir e justificar o ciclo de vida de desenvolvimento de software.
 
-## Sprint backlog 9 - (09/10 até 15/10)
+## Sprint backlog 8 - (02/10 até 08/10)
 
+- [ ] Tela de Login mobile **- Diego**
+- [ ] Menu (Tela principal) mobile **- João**
+- [ ] Tela do Perfil mobile **- Diego**
+- [ ] Tela de Operações mobile **- João**
+- [ ] Tela do Holerite (Tabela) mobile **- Diego**
+  1. Busca
+  2. Visualizar (Gerar pdf)
 - [ ] O sistema deve ter relatórios parciais, diários e consolidados mensalmente, gráficos, alertas etc
 - [ ] Projeto Escrito - Descrever os requisitos dos usuários, requisitos funcionais, não- funcionais, e do sistema (usabilidade, desempenho, capacidade etc.);
 - [ ] Projeto Escrito - manual de uso do sistema
 - [ ] Projeto Escrito - Elaborar todos os principais modelos de casos de uso para cada cenário e criar o arquivo descritivo de cada caso de uso. Cada caso de uso deve ter uma descrição suscinta do seu comportamento, dos fluxos principais, alternativos e de exceção e pré e pós-condições
+
+## Sprint backlog 9 - (09/10 até 15/10)
+
+- [ ] Projeto Escrito - Atividade Proposta de Extensão Universitária
 - [ ] Projeto Escrito - Elaborar os diagramas de classes de análise (Boundary, Control, Entity)
 - [ ] Projeto Escrito - Demonstrar o comportamento dos casos de uso através do diagrama de sequência.
 - [ ] Projeto Escrito - Diagrama de implantação (definir quantos servidores, banco de dados, estrutura utilizada para o sistema e como instalar o sistema)
@@ -183,6 +182,7 @@
 - [ ] Projeto Escrito - Anexar o script de criação do banco (usar uma ferramenta) e scripts de dados iniciais de testes (roteiros de teste) e homologação do sistema;
 - [ ] Projeto Escrito - Anexar planilhas de testes para homologação do sistema, identificando como produzir as evidências do teste e as querys no banco
 - [ ] Projeto Escrito - Anexar relatórios de gestão para análise de evolução dos negócios, análise de mercado, desempenho dos funcionários (RH) etc
+- [ ] Projeto Escrito - Ajustes Finais no Documento
 
 ## Sprint backlog 11 - (22/10 até 28/10)
 
