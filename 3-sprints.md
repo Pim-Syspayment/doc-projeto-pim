@@ -50,7 +50,7 @@
   5. Criar
   6. Editar
   7. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
-- [ ] Tela de Login desktop **- Diego e João**
+- [x] Tela de Login desktop **- Diego e João**
 - [x] Menu desktop (Fazendo a validação dos perfis dos usuários) **- Matheus**
 - [ ] Tela de Tabela de Estabelecimento desktop **- Marco**
   1. Visualizar todos (Em tabela)
