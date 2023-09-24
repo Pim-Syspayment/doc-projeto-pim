@@ -50,7 +50,7 @@
   5. Criar
   6. Editar
   7. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
-- [ ] Tela de Login desktop **- Gabriella**
+- [ ] Tela de Login desktop **- Diego e João**
 - [x] Menu desktop (Fazendo a validação dos perfis dos usuários) **- Matheus**
 - [ ] Tela de Tabela de Estabelecimento desktop **- Marco**
   1. Visualizar todos (Em tabela)
@@ -69,20 +69,6 @@
 
 ## Sprint backlog 5 - (11/09 até 17/09)
 
-- [ ] Tela de Tabela de Operações disponíveis desktop **- Gabriella**
-  1. Visualizar todos (Em tabela)
-  2. Busca
-  3. Visualizar individual
-  4. Criar
-  5. Editar
-  6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
-- [ ] Tela de Tabela de Operações desktop **- Marco**
-  1. Visualizar todos (Em tabela)
-  2. Busca
-  3. Visualizar individual
-  4. Criar
-  5. Editar
-  6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
 - [ ] Tela de Funcionarios desktop **- João**
   1. Visualizar todos (Em tabela)
   2. Busca
@@ -90,7 +76,6 @@
   4. Criar
   5. Editar
   6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
-- [ ] Tela de Perfil desktop **- Diego**
 - [ ] Tela de Estabelecimentos de funcionarios desktop **- Victor**
   1. Visualizar todos (Em tabela)
   2. Busca
@@ -98,16 +83,31 @@
   4. Criar
   5. Editar
   6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
-- [ ] Tela de Cargos dos funcionarios desktop **- Matheus**
+- [x] Tela de Cargos dos funcionarios desktop **- Matheus**
   1. Visualizar todos (Em tabela)
   2. Busca
   3. Visualizar individual
   4. Criar
   5. Editar
   6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
+- [ ] Tela de Perfil desktop **- Diego**
 
 ## Sprint Backlog 6 - (18/09 até 24/09)
 
+- [ ] Tela de Tabela de Operações disponiveis desktop **- Diego**
+  1. Visualizar todos (Em tabela)
+  2. Busca
+  3. Visualizar individual
+  4. Criar
+  5. Editar
+  6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
+- [ ] Tela de Tabela de Operações desktop **- João**
+  1. Visualizar todos (Em tabela)
+  2. Busca
+  3. Visualizar individual
+  4. Criar
+  5. Editar
+  6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
 - [ ] Tela de Operações de funcionarios desktop **- Matheus**
   1. Visualizar todos (Em tabela)
   2. Busca
@@ -115,6 +115,16 @@
   4. Criar
   5. Editar
   6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
+- [x] Projeto Escrito - Montar o documento do pim **- João**
+- [ ] Projeto Escrito - Revisar o documento antigo, Refatorando com os pontos levantados pelos professores (Pedro) **- Marco**
+- [ ] Projeto Escrito - Adicionar o conteúdo do desenvolvimento do projeto do pim passado no pim novo **- Marco**
+- [ ] Projeto Escrito - INTRODUÇÃO **- Victor**
+- [ ] Projeto Escrito - PROGRAMAÇÃO ORIENTADA A OBJETOS II **- Victor**
+- [ ] Projeto Escrito - DESENVOLVIMENTO DE SOFTWARE PARA INTERNET **- Gabriella**
+- [ ] Projeto Escrito - TÓPICOS ESPECIAIS DE PROGRAMAÇÃO ORIENTADA A OBJETOS **- Gabriella**
+
+## Sprint backlog 7 - (25/09 até 01/10)
+
 - [ ] Tela de Holerites desktop **- Diego**
   1. Visualizar todos (Em tabela)
   2. Busca
@@ -129,61 +139,52 @@
   4. Criar
   5. Editar
   6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
-- [x] Projeto Escrito - Montar o documento do pim **- João**
-- [ ] Projeto Escrito - Revisar o documento antigo, Refatorando com os pontos levantados pelos professores (Pedro)
-- [ ] Projeto Escrito - Adicionar o conteúdo do desenvolvimento do projeto do pim passado no pim novo
-- [ ] Projeto Escrito - INTRODUÇÃO
-- [ ] Projeto Escrito - PROGRAMAÇÃO ORIENTADA A OBJETOS II
-- [ ] Projeto Escrito - DESENVOLVIMENTO DE SOFTWARE PARA INTERNET
-- [ ] Projeto Escrito - TÓPICOS ESPECIAIS DE PROGRAMAÇÃO ORIENTADA A OBJETOS
-
-## Sprint backlog 7 - (25/09 até 01/10)
-
-- [ ] Tela de Login web **- João**
-- [ ] Menu (Tela principal) web **- Diego**
-- [ ] Tela do Perfil web **- João**
-- [ ] Tela de Operações web **- Diego**
-- [ ] Tela do Holerite (Tabela) web **- João**
-  1. Busca
-  2. Visualizar (Gerar pdf)
-- [ ] Projeto Escrito - PROJETO DE SISTEMAS ORIENTADO A OBJETOS
-- [ ] Projeto Escrito - GERENCIAMENTO DE PROJETO DE SOFTWARE
-- [ ] Projeto Escrito - EMPREENDEDORISMO
-- [ ] Projeto Escrito - GESTÃO DA QUALIDADE
-- [ ] Projeto Escrito - CONCLUSÃO
-- [ ] Projeto Escrito - RESUMO
-- [ ] Projeto Escrito - REFERÊNCIAS
-- [ ] Projeto Escrito - Cenário bem detalhado (regras do negócio, glossário do sistema, pesquisa de programas no mercado e livros sobre o tema sistema para automatização total da folha de pagamento de uma empresa, análise do mercado). Definir e justificar o ciclo de vida de desenvolvimento de software.
+- [ ] Tela de Login mobile **- Matheus**
+- [ ] Projeto Escrito - PROJETO DE SISTEMAS ORIENTADO A OBJETOS **- Marco**
+- [ ] Projeto Escrito - GERENCIAMENTO DE PROJETO DE SOFTWARE **- Marco**
+- [ ] Projeto Escrito - EMPREENDEDORISMO **- Victor**
+- [ ] Projeto Escrito - GESTÃO DA QUALIDADE **- Victor**
+- [ ] Projeto Escrito - CONCLUSÃO **- Gabriella**
+- [ ] Projeto Escrito - RESUMO **- Victor**
+- [ ] Projeto Escrito - REFERÊNCIAS **- Marco**
+- [ ] Projeto Escrito - Cenário bem detalhado (regras do negócio, glossário do sistema, pesquisa de programas no mercado e livros sobre o tema sistema para automatização total da folha de pagamento de uma empresa, análise do mercado). Definir e justificar o ciclo de vida de desenvolvimento de software. **- Gabriella**
 
 ## Sprint backlog 8 - (02/10 até 08/10)
 
-- [ ] Tela de Login mobile **- Diego**
-- [ ] Menu (Tela principal) mobile **- João**
-- [ ] Tela do Perfil mobile **- Diego**
-- [ ] Tela de Operações mobile **- João**
-- [ ] Tela do Holerite (Tabela) mobile **- Diego**
-  1. Busca
-  2. Visualizar (Gerar pdf)
-- [ ] O sistema deve ter relatórios parciais, diários e consolidados mensalmente, gráficos, alertas etc
-- [ ] Projeto Escrito - Descrever os requisitos dos usuários, requisitos funcionais, não- funcionais, e do sistema (usabilidade, desempenho, capacidade etc.);
-- [ ] Projeto Escrito - manual de uso do sistema
-- [ ] Projeto Escrito - Elaborar todos os principais modelos de casos de uso para cada cenário e criar o arquivo descritivo de cada caso de uso. Cada caso de uso deve ter uma descrição suscinta do seu comportamento, dos fluxos principais, alternativos e de exceção e pré e pós-condições
+- [ ] Tela de Login web **- Matheus**
+- [ ] Menu (Tela principal) web **- Diego**
+- [ ] Tela do Perfil web **- João**
+- [ ] O sistema deve ter relatórios parciais, diários e consolidados mensalmente, gráficos, alertas etc **- João**
+- [ ] Projeto Escrito - Descrever os requisitos dos usuários, requisitos funcionais, não- funcionais, e do sistema (usabilidade, desempenho, capacidade etc.); **- Gabriella**
+- [ ] Projeto Escrito - manual de uso do sistema **- Victor**
+- [ ] Projeto Escrito - Elaborar todos os principais modelos de casos de uso para cada cenário e criar o arquivo descritivo de cada caso de uso. Cada caso de uso deve ter uma descrição suscinta do seu comportamento, dos fluxos principais, alternativos e de exceção e pré e pós-condições **- Marco**
 
 ## Sprint backlog 9 - (09/10 até 15/10)
 
-- [ ] Projeto Escrito - Atividade Proposta de Extensão Universitária
-- [ ] Projeto Escrito - Elaborar os diagramas de classes de análise (Boundary, Control, Entity)
-- [ ] Projeto Escrito - Demonstrar o comportamento dos casos de uso através do diagrama de sequência.
-- [ ] Projeto Escrito - Diagrama de implantação (definir quantos servidores, banco de dados, estrutura utilizada para o sistema e como instalar o sistema)
+- [ ] Tela de Operações web **- Diego**
+- [ ] Tela do Holerite (Tabela) web **- Matheus**
+  1. Busca
+  2. Visualizar (Gerar pdf)
+- [ ] Menu (Tela principal) mobile **- João**
+- [ ] Projeto Escrito - Atividade Proposta de Extensão Universitária **- Todos da Equipe**
+- [ ] Projeto Escrito - Elaborar os diagramas de classes de análise (Boundary, Control, Entity) **- Marco e Victor**
+- [x] Projeto Escrito - Demonstrar o comportamento dos casos de uso através do diagrama de sequência. **- Relembrar**
+- [ ] Projeto Escrito - Diagrama de implantação (definir quantos servidores, banco de dados, estrutura utilizada para o sistema e como instalar o sistema) **- Gabriella**
 
 ## Sprint backlog 10 - (16/10 até 22/10)
 
-- [ ] Projeto Escrito - Anexar o Diagrama ER do banco de dados e o dicionário de dados.
-- [ ] Projeto Escrito - Anexar o script de criação do banco (usar uma ferramenta) e scripts de dados iniciais de testes (roteiros de teste) e homologação do sistema;
-- [ ] Projeto Escrito - Anexar planilhas de testes para homologação do sistema, identificando como produzir as evidências do teste e as querys no banco
-- [ ] Projeto Escrito - Anexar relatórios de gestão para análise de evolução dos negócios, análise de mercado, desempenho dos funcionários (RH) etc
-- [ ] Projeto Escrito - Ajustes Finais no Documento
+- [ ] Tela do Perfil mobile **- Diego**
+- [ ] Tela de Operações mobile **- Matheus**
+- [ ] Tela do Holerite (Tabela) mobile **- João**
+  1. Busca
+  2. Visualizar (Gerar pdf)
+- [ ] Projeto Escrito - Anexar o Diagrama ER do banco de dados e o dicionário de dados. **- Gabriella**
+- [ ] Projeto Escrito - Anexar o script de criação do banco (usar uma ferramenta) e scripts de dados iniciais de testes (roteiros de teste) e homologação do sistema; **- Gabriella**
+- [ ] Projeto Escrito - Anexar planilhas de testes para homologação do sistema, identificando como produzir as evidências do teste e as querys no banco **- Marco**
+- [ ] Projeto Escrito - Anexar relatórios de gestão para análise de evolução dos negócios, análise de mercado, desempenho dos funcionários (RH) etc **- Victor**
+- [ ] Montar Apresentação Projeto **- Todos do Grupo**
 
 ## Sprint backlog 11 - (22/10 até 28/10)
 
-- [] Ajustes finais para a entrega do projeto
+- [ ] Projeto Escrito - Ajustes Finais no Documento
+- [ ] Ajustes finais para a entrega do projeto
