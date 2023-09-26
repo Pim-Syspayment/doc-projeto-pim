@@ -55,41 +55,36 @@
 - [ ] Tela de Tabela de Estabelecimento desktop **- Marco**
   1. Visualizar todos (Em tabela)
   2. Busca
-  3. Visualizar individual
-  4. Criar
-  5. Editar
-  6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
+  3. Criar
+  4. Editar
+  5. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
 - [x] Tela de Tabela de Cargo desktop **- Victor**
   1. Visualizar todos (Em tabela)
   2. Busca
-  3. Visualizar individual
-  4. Criar
-  5. Editar
-  6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
+  3. Criar
+  4. Editar
+  5. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
 
 ## Sprint backlog 5 - (11/09 até 17/09)
 
-- [ ] Tela de Funcionarios desktop **- João**
+- [x] Tela de Funcionarios desktop **- João**
   1. Visualizar todos (Em tabela)
   2. Busca
-  3. Visualizar individual
-  4. Criar
-  5. Editar
-  6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
+  3. Criar
+  4. Editar
+  5. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
 - [ ] Tela de Estabelecimentos de funcionarios desktop **- Victor**
   1. Visualizar todos (Em tabela)
   2. Busca
-  3. Visualizar individual
-  4. Criar
-  5. Editar
-  6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
+  3. Criar
+  4. Editar
+  5. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
 - [x] Tela de Cargos dos funcionarios desktop **- Matheus**
   1. Visualizar todos (Em tabela)
   2. Busca
-  3. Visualizar individual
-  4. Criar
-  5. Editar
-  6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
+  3. Criar
+  4. Editar
+  5. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
 - [ ] Tela de Perfil desktop **- Diego**
 
 ## Sprint Backlog 6 - (18/09 até 24/09)
@@ -97,24 +92,21 @@
 - [ ] Tela de Tabela de Operações disponiveis desktop **- Diego**
   1. Visualizar todos (Em tabela)
   2. Busca
-  3. Visualizar individual
-  4. Criar
-  5. Editar
-  6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
+  3. Criar
+  4. Editar
+  5. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
 - [ ] Tela de Tabela de Operações desktop **- João**
   1. Visualizar todos (Em tabela)
   2. Busca
-  3. Visualizar individual
-  4. Criar
-  5. Editar
-  6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
+  3. Criar
+  4. Editar
+  5. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
 - [ ] Tela de Operações de funcionarios desktop **- Matheus**
   1. Visualizar todos (Em tabela)
   2. Busca
-  3. Visualizar individual
-  4. Criar
-  5. Editar
-  6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
+  3. Criar
+  4. Editar
+  5. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
 - [x] Projeto Escrito - Montar o documento do pim **- João**
 - [ ] Projeto Escrito - Revisar o documento antigo, Refatorando com os pontos levantados pelos professores (Pedro) **- Marco**
 - [ ] Projeto Escrito - Adicionar o conteúdo do desenvolvimento do projeto do pim passado no pim novo **- Marco**
@@ -128,17 +120,15 @@
 - [ ] Tela de Holerites desktop **- Diego**
   1. Visualizar todos (Em tabela)
   2. Busca
-  3. Visualizar individual
-  4. Criar
-  5. Editar
-  6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
+  3. Criar
+  4. Editar
+  5. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
 - [ ] Tela de Folha de Pagamento desktop **- João**
   1. Visualizar todos (Em tabela)
   2. Busca
-  3. Visualizar individual
-  4. Criar
-  5. Editar
-  6. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
+  3. Criar
+  4. Editar
+  5. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
 - [ ] Tela de Login mobile **- Matheus**
 - [ ] Projeto Escrito - PROJETO DE SISTEMAS ORIENTADO A OBJETOS **- Marco**
 - [ ] Projeto Escrito - GERENCIAMENTO DE PROJETO DE SOFTWARE **- Marco**
