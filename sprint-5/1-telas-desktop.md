@@ -19,3 +19,7 @@ Tela de Funcionarios:
 ![Untitled](<../images/Funcionarios%20(4).png>)
 
 ![Untitled](<../images/Funcionarios%20(5).png>)
+
+Tela de Perfil:
+
+Tela de Estabelecimentos:

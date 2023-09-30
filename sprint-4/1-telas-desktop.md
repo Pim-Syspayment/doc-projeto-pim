@@ -36,3 +36,15 @@ Tela de Login:
 ![Untitled](<../images/TelaLogin%20(2).png>)
 
 ![Untitled](<../images/TelaLogin%20(3).png>)
+
+Tela de Tabela de Estabelecimento:
+
+![Untitled](<../images/Estabelecimento%20(1).png>)
+
+![Untitled](<../images/Estabelecimento%20(2).png>)
+
+![Untitled](<../images/Estabelecimento%20(3).png>)
+
+![Untitled](<../images/Estabelecimento%20(4).png>)
+
+![Untitled](<../images/Estabelecimento%20(5).png>)
