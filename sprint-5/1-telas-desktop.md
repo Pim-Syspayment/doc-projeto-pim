@@ -22,4 +22,16 @@ Tela de Funcionarios:
 
 Tela de Perfil:
 
-Tela de Estabelecimentos:
+![Untitled](../images/PerfilVisualizar.png)
+
+Tela de Estabelecimentos Funcionarios:
+
+![Untitled](<../images/EstabelecimentoFuncionario%20(1).png>)
+
+![Untitled](<../images/EstabelecimentoFuncionario%20(2).png>)
+
+![Untitled](<../images/EstabelecimentoFuncionario%20(3).png>)
+
+![Untitled](<../images/EstabelecimentoFuncionario%20(4).png>)
+
+![Untitled](<../images/EstabelecimentoFuncionario%20(5).png>)

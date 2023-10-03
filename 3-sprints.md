@@ -73,7 +73,7 @@
   3. Criar
   4. Editar
   5. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
-- [ ] Tela de Estabelecimentos de funcionarios desktop **- Victor**
+- [x] Tela de Estabelecimentos de funcionarios desktop **- Victor**
   1. Visualizar todos (Em tabela)
   2. Busca
   3. Criar
@@ -85,7 +85,7 @@
   3. Criar
   4. Editar
   5. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
-- [ ] Tela de Perfil desktop **- Diego**
+- [x] Tela de Perfil desktop **- Diego**
 
 ## Sprint Backlog 6 - (18/09 até 24/09)
 
@@ -155,7 +155,7 @@
 - [ ] Tela do Holerite (Tabela) web **- Matheus**
   1. Busca
   2. Visualizar (Gerar pdf)
-- [ ] Menu (Tela principal) mobile **- João**
+- [x] Menu (Tela principal) mobile **- João**
 - [ ] Projeto Escrito - Atividade Proposta de Extensão Universitária **- Todos da Equipe**
 - [ ] Projeto Escrito - Elaborar os diagramas de classes de análise (Boundary, Control, Entity) **- Marco e Victor**
 - [x] Projeto Escrito - Demonstrar o comportamento dos casos de uso através do diagrama de sequência. **- Relembrar**
