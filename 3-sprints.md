@@ -89,7 +89,7 @@
 
 ## Sprint Backlog 6 - (18/09 até 24/09)
 
-- [ ] Tela de Tabela de Operações disponiveis desktop **- Diego**
+- [x] Tela de Tabela de Operações disponiveis desktop **- Diego**
   1. Visualizar todos (Em tabela)
   2. Busca
   3. Criar
@@ -101,7 +101,7 @@
   3. Criar
   4. Editar
   5. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
-- [ ] Tela de Operações de funcionarios desktop **- Matheus**
+- [x] Tela de Operações de funcionarios desktop **- Matheus**
   1. Visualizar todos (Em tabela)
   2. Busca
   3. Criar
@@ -123,7 +123,7 @@
   3. Criar
   4. Editar
   5. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
-- [ ] Tela de Folha de Pagamento desktop **- João**
+- [x] Tela de Folha de Pagamento desktop **- João**
   1. Visualizar todos (Em tabela)
   2. Busca
   3. Criar
