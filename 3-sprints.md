@@ -108,12 +108,12 @@
   4. Editar
   5. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
 - [x] Projeto Escrito - Montar o documento do pim **- João**
-- [ ] Projeto Escrito - Revisar o documento antigo, Refatorando com os pontos levantados pelos professores (Pedro) **- Marco**
-- [ ] Projeto Escrito - Adicionar o conteúdo do desenvolvimento do projeto do pim passado no pim novo **- Marco**
-- [ ] Projeto Escrito - INTRODUÇÃO **- Victor**
-- [ ] Projeto Escrito - PROGRAMAÇÃO ORIENTADA A OBJETOS II **- Victor**
-- [ ] Projeto Escrito - DESENVOLVIMENTO DE SOFTWARE PARA INTERNET **- Gabriella**
-- [ ] Projeto Escrito - TÓPICOS ESPECIAIS DE PROGRAMAÇÃO ORIENTADA A OBJETOS **- Gabriella**
+- [x] Projeto Escrito - Revisar o documento antigo, Refatorando com os pontos levantados pelos professores (Pedro) **- Marco**
+- [x] Projeto Escrito - Adicionar o conteúdo do desenvolvimento do projeto do pim passado no pim novo **- Marco**
+- [x] Projeto Escrito - INTRODUÇÃO **- Victor**
+- [x] Projeto Escrito - PROGRAMAÇÃO ORIENTADA A OBJETOS II **- Victor**
+- [x] Projeto Escrito - DESENVOLVIMENTO DE SOFTWARE PARA INTERNET **- Gabriella**
+- [x] Projeto Escrito - TÓPICOS ESPECIAIS DE PROGRAMAÇÃO ORIENTADA A OBJETOS **- Gabriella**
 
 ## Sprint backlog 7 - (25/09 até 01/10)
 
@@ -141,10 +141,10 @@
 
 ## Sprint backlog 8 - (02/10 até 08/10)
 
-- [ ] Tela de Login web **- Matheus**
-- [ ] Menu (Tela principal) web **- Diego**
+- [x] Tela de Login web **- João**
+- [x] Menu (Tela principal) web **- João**
 - [ ] Tela do Perfil web **- João**
-- [ ] O sistema deve ter relatórios parciais, diários e consolidados mensalmente, gráficos, alertas etc **- João**
+- [ ] O sistema deve ter relatórios parciais, diários e consolidados mensalmente, gráficos, alertas etc **- Equipe dev**
 - [ ] Projeto Escrito - Descrever os requisitos dos usuários, requisitos funcionais, não- funcionais, e do sistema (usabilidade, desempenho, capacidade etc.); **- Gabriella**
 - [ ] Projeto Escrito - manual de uso do sistema **- Victor**
 - [ ] Projeto Escrito - Elaborar todos os principais modelos de casos de uso para cada cenário e criar o arquivo descritivo de cada caso de uso. Cada caso de uso deve ter uma descrição suscinta do seu comportamento, dos fluxos principais, alternativos e de exceção e pré e pós-condições **- Marco**
