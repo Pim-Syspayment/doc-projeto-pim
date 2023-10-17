@@ -129,21 +129,21 @@
   3. Criar
   4. Editar
   5. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
-- [ ] Tela de Login mobile **- Matheus**
-- [ ] Projeto Escrito - PROJETO DE SISTEMAS ORIENTADO A OBJETOS **- Marco**
-- [ ] Projeto Escrito - GERENCIAMENTO DE PROJETO DE SOFTWARE **- Marco**
-- [ ] Projeto Escrito - EMPREENDEDORISMO **- Victor**
-- [ ] Projeto Escrito - GESTÃO DA QUALIDADE **- Victor**
+- [x] Tela de Login mobile **- Matheus**
+- [x] Projeto Escrito - PROJETO DE SISTEMAS ORIENTADO A OBJETOS **- Marco**
+- [x] Projeto Escrito - GERENCIAMENTO DE PROJETO DE SOFTWARE **- Marco**
+- [x] Projeto Escrito - EMPREENDEDORISMO **- Victor**
+- [x] Projeto Escrito - GESTÃO DA QUALIDADE **- Victor**
 - [ ] Projeto Escrito - CONCLUSÃO **- Gabriella**
-- [ ] Projeto Escrito - RESUMO **- Victor**
-- [ ] Projeto Escrito - REFERÊNCIAS **- Marco**
+- [x] Projeto Escrito - RESUMO **- Victor**
 - [ ] Projeto Escrito - Cenário bem detalhado (regras do negócio, glossário do sistema, pesquisa de programas no mercado e livros sobre o tema sistema para automatização total da folha de pagamento de uma empresa, análise do mercado). Definir e justificar o ciclo de vida de desenvolvimento de software. **- Gabriella**
 
 ## Sprint backlog 8 - (02/10 até 08/10)
 
 - [x] Tela de Login web **- João**
 - [x] Menu (Tela principal) web **- João**
-- [ ] Tela do Perfil web **- João**
+- [x] Tela do Perfil web **- João**
+- [ ] Projeto Escrito - REFERÊNCIAS **- Marco**
 - [ ] O sistema deve ter relatórios parciais, diários e consolidados mensalmente, gráficos, alertas etc **- Equipe dev**
 - [ ] Projeto Escrito - Descrever os requisitos dos usuários, requisitos funcionais, não- funcionais, e do sistema (usabilidade, desempenho, capacidade etc.); **- Gabriella**
 - [ ] Projeto Escrito - manual de uso do sistema **- Victor**
@@ -156,7 +156,7 @@
   1. Busca
   2. Visualizar (Gerar pdf)
 - [x] Menu (Tela principal) mobile **- João**
-- [ ] Projeto Escrito - Atividade Proposta de Extensão Universitária **- Todos da Equipe**
+- [x] Projeto Escrito - Atividade Proposta de Extensão Universitária **- Todos da Equipe**
 - [ ] Projeto Escrito - Elaborar os diagramas de classes de análise (Boundary, Control, Entity) **- Marco e Victor**
 - [x] Projeto Escrito - Demonstrar o comportamento dos casos de uso através do diagrama de sequência. **- Relembrar**
 - [ ] Projeto Escrito - Diagrama de implantação (definir quantos servidores, banco de dados, estrutura utilizada para o sistema e como instalar o sistema) **- Gabriella**
