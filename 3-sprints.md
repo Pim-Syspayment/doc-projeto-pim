@@ -136,7 +136,7 @@
 - [x] Projeto Escrito - GESTÃO DA QUALIDADE **- Victor**
 - [ ] Projeto Escrito - CONCLUSÃO **- Gabriella**
 - [x] Projeto Escrito - RESUMO **- Victor**
-- [ ] Projeto Escrito - Cenário bem detalhado (regras do negócio, glossário do sistema, pesquisa de programas no mercado e livros sobre o tema sistema para automatização total da folha de pagamento de uma empresa, análise do mercado). Definir e justificar o ciclo de vida de desenvolvimento de software. **- Gabriella**
+- [ ] Projeto Escrito - Cenário bem detalhado (regras do negócio, glossário do sistema, pesquisa de programas no mercado e livros sobre o tema sistema para automatização total da folha de pagamento de uma empresa, análise do mercado). Definir e justificar o ciclo de vida de desenvolvimento de software. **- Diego**
 
 ## Sprint backlog 8 - (02/10 até 08/10)
 
@@ -145,7 +145,7 @@
 - [x] Tela do Perfil web **- João**
 - [ ] Projeto Escrito - REFERÊNCIAS **- Marco**
 - [ ] O sistema deve ter relatórios parciais, diários e consolidados mensalmente, gráficos, alertas etc **- Equipe dev**
-- [ ] Projeto Escrito - Descrever os requisitos dos usuários, requisitos funcionais, não- funcionais, e do sistema (usabilidade, desempenho, capacidade etc.); **- Gabriella**
+- [ ] Projeto Escrito - Descrever os requisitos dos usuários, requisitos funcionais, não- funcionais, e do sistema (usabilidade, desempenho, capacidade etc.); **- Matheus**
 - [ ] Projeto Escrito - manual de uso do sistema **- Victor**
 - [ ] Projeto Escrito - Elaborar todos os principais modelos de casos de uso para cada cenário e criar o arquivo descritivo de cada caso de uso. Cada caso de uso deve ter uma descrição suscinta do seu comportamento, dos fluxos principais, alternativos e de exceção e pré e pós-condições **- Marco**
 
@@ -159,7 +159,7 @@
 - [x] Projeto Escrito - Atividade Proposta de Extensão Universitária **- Todos da Equipe**
 - [ ] Projeto Escrito - Elaborar os diagramas de classes de análise (Boundary, Control, Entity) **- Marco e Victor**
 - [x] Projeto Escrito - Demonstrar o comportamento dos casos de uso através do diagrama de sequência. **- Relembrar**
-- [ ] Projeto Escrito - Diagrama de implantação (definir quantos servidores, banco de dados, estrutura utilizada para o sistema e como instalar o sistema) **- Gabriella**
+- [ ] Projeto Escrito - Diagrama de implantação (definir quantos servidores, banco de dados, estrutura utilizada para o sistema e como instalar o sistema) **- Matheus**
 
 ## Sprint backlog 10 - (16/10 até 22/10)
 
@@ -168,8 +168,8 @@
 - [ ] Tela do Holerite (Tabela) mobile **- João**
   1. Busca
   2. Visualizar (Gerar pdf)
-- [ ] Projeto Escrito - Anexar o Diagrama ER do banco de dados e o dicionário de dados. **- Gabriella**
-- [ ] Projeto Escrito - Anexar o script de criação do banco (usar uma ferramenta) e scripts de dados iniciais de testes (roteiros de teste) e homologação do sistema; **- Gabriella**
+- [ ] Projeto Escrito - Anexar o Diagrama ER do banco de dados e o dicionário de dados. **- João**
+- [ ] Projeto Escrito - Anexar o script de criação do banco (usar uma ferramenta) e scripts de dados iniciais de testes (roteiros de teste) e homologação do sistema; **- João**
 - [ ] Projeto Escrito - Anexar planilhas de testes para homologação do sistema, identificando como produzir as evidências do teste e as querys no banco **- Marco**
 - [ ] Projeto Escrito - Anexar relatórios de gestão para análise de evolução dos negócios, análise de mercado, desempenho dos funcionários (RH) etc **- Victor**
 - [ ] Montar Apresentação Projeto **- Todos do Grupo**
