@@ -158,7 +158,7 @@
 - [x] Menu (Tela principal) mobile **- João**
 - [x] Projeto Escrito - Atividade Proposta de Extensão Universitária **- Todos da Equipe**
 - [ ] Projeto Escrito - Elaborar os diagramas de classes de análise (Boundary, Control, Entity) **- Marco e Victor**
-- [x] Projeto Escrito - Demonstrar o comportamento dos casos de uso através do diagrama de sequência. **- Relembrar**
+- [x] Projeto Escrito - Demonstrar o comportamento dos casos de uso através do diagrama de sequência. **- João**
 - [ ] Projeto Escrito - Diagrama de implantação (definir quantos servidores, banco de dados, estrutura utilizada para o sistema e como instalar o sistema) **- Matheus**
 
 ## Sprint backlog 10 - (16/10 até 22/10)
@@ -168,8 +168,8 @@
 - [ ] Tela do Holerite (Tabela) mobile **- João**
   1. Busca
   2. Visualizar (Gerar pdf)
-- [ ] Projeto Escrito - Anexar o Diagrama ER do banco de dados e o dicionário de dados. **- João**
-- [ ] Projeto Escrito - Anexar o script de criação do banco (usar uma ferramenta) e scripts de dados iniciais de testes (roteiros de teste) e homologação do sistema; **- João**
+- [x] Projeto Escrito - Anexar o Diagrama ER do banco de dados e o dicionário de dados. **- João**
+- [x] Projeto Escrito - Anexar o script de criação do banco (usar uma ferramenta) e scripts de dados iniciais de testes (roteiros de teste) e homologação do sistema; **- João**
 - [ ] Projeto Escrito - Anexar planilhas de testes para homologação do sistema, identificando como produzir as evidências do teste e as querys no banco **- Marco**
 - [ ] Projeto Escrito - Anexar relatórios de gestão para análise de evolução dos negócios, análise de mercado, desempenho dos funcionários (RH) etc **- Victor**
 - [ ] Montar Apresentação Projeto **- Todos do Grupo**
