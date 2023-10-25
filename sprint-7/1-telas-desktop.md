@@ -1,5 +1,3 @@
-Tela de Holerites:
-
 Tela de Folha de Pagamento:
 ![Untitled](../images/folhadepagamentodesk.png)
 
