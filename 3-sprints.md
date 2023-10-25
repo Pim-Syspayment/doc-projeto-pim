@@ -136,18 +136,18 @@
 - [x] Projeto Escrito - GESTÃO DA QUALIDADE **- Victor**
 - [ ] Projeto Escrito - CONCLUSÃO **- Gabriella**
 - [x] Projeto Escrito - RESUMO **- Victor**
-- [ ] Projeto Escrito - Cenário bem detalhado (regras do negócio, glossário do sistema, pesquisa de programas no mercado e livros sobre o tema sistema para automatização total da folha de pagamento de uma empresa, análise do mercado). Definir e justificar o ciclo de vida de desenvolvimento de software. **- Diego**
+- [x] Projeto Escrito - Cenário bem detalhado (regras do negócio, glossário do sistema, pesquisa de programas no mercado e livros sobre o tema sistema para automatização total da folha de pagamento de uma empresa, análise do mercado). Definir e justificar o ciclo de vida de desenvolvimento de software. **- Diego**
 
 ## Sprint backlog 8 - (02/10 até 08/10)
 
 - [x] Tela de Login web **- João**
 - [x] Menu (Tela principal) web **- João**
 - [x] Tela do Perfil web **- João**
-- [ ] Projeto Escrito - REFERÊNCIAS **- Marco**
+- [x] Projeto Escrito - REFERÊNCIAS **- Marco**
 - [ ] O sistema deve ter relatórios parciais, diários e consolidados mensalmente, gráficos, alertas etc **- Equipe dev**
-- [ ] Projeto Escrito - Descrever os requisitos dos usuários, requisitos funcionais, não- funcionais, e do sistema (usabilidade, desempenho, capacidade etc.); **- Matheus**
-- [ ] Projeto Escrito - manual de uso do sistema **- Victor**
-- [ ] Projeto Escrito - Elaborar todos os principais modelos de casos de uso para cada cenário e criar o arquivo descritivo de cada caso de uso. Cada caso de uso deve ter uma descrição suscinta do seu comportamento, dos fluxos principais, alternativos e de exceção e pré e pós-condições **- Marco**
+- [x] Projeto Escrito - Descrever os requisitos dos usuários, requisitos funcionais, não- funcionais, e do sistema (usabilidade, desempenho, capacidade etc.); **- Matheus**
+- [x] Projeto Escrito - manual de uso do sistema **- Victor**
+- [x] Projeto Escrito - Elaborar todos os principais modelos de casos de uso para cada cenário e criar o arquivo descritivo de cada caso de uso. Cada caso de uso deve ter uma descrição suscinta do seu comportamento, dos fluxos principais, alternativos e de exceção e pré e pós-condições **- Marco**
 
 ## Sprint backlog 9 - (09/10 até 15/10)
 
@@ -157,9 +157,9 @@
   2. Visualizar (Gerar pdf)
 - [x] Menu (Tela principal) mobile **- João**
 - [x] Projeto Escrito - Atividade Proposta de Extensão Universitária **- Todos da Equipe**
-- [ ] Projeto Escrito - Elaborar os diagramas de classes de análise (Boundary, Control, Entity) **- Marco e Victor**
+- [x] Projeto Escrito - Elaborar os diagramas de classes de análise (Boundary, Control, Entity) **- Marco e Victor**
 - [x] Projeto Escrito - Demonstrar o comportamento dos casos de uso através do diagrama de sequência. **- João**
-- [ ] Projeto Escrito - Diagrama de implantação (definir quantos servidores, banco de dados, estrutura utilizada para o sistema e como instalar o sistema) **- Matheus**
+- [x] Projeto Escrito - Diagrama de implantação (definir quantos servidores, banco de dados, estrutura utilizada para o sistema e como instalar o sistema) **- Matheus**
 
 ## Sprint backlog 10 - (16/10 até 22/10)
 
@@ -170,11 +170,11 @@
   2. Visualizar (Gerar pdf)
 - [x] Projeto Escrito - Anexar o Diagrama ER do banco de dados e o dicionário de dados. **- João**
 - [x] Projeto Escrito - Anexar o script de criação do banco (usar uma ferramenta) e scripts de dados iniciais de testes (roteiros de teste) e homologação do sistema; **- João**
-- [ ] Projeto Escrito - Anexar planilhas de testes para homologação do sistema, identificando como produzir as evidências do teste e as querys no banco **- Marco**
+- [x] Projeto Escrito - Anexar planilhas de testes para homologação do sistema, identificando como produzir as evidências do teste e as querys no banco **- Marco**
 - [ ] Projeto Escrito - Anexar relatórios de gestão para análise de evolução dos negócios, análise de mercado, desempenho dos funcionários (RH) etc **- Victor**
 - [ ] Montar Apresentação Projeto **- Todos do Grupo**
 
 ## Sprint backlog 11 - (22/10 até 28/10)
 
-- [ ] Projeto Escrito - Ajustes Finais no Documento
-- [ ] Ajustes finais para a entrega do projeto
+- [x] Projeto Escrito - Ajustes Finais no Documento
+- [x] Ajustes finais para a entrega do projeto
