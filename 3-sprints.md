@@ -159,20 +159,20 @@
 
 ## Sprint backlog 11 - (29/10 até 27/11)
 
-- [ ] Montar Apresentação Projeto **- Todos do Grupo**
-- [ ] Tela de Operações web **- Diego**
-- [ ] Tela do Holerite (Tabela) web **- Matheus**
+- [x] Montar Apresentação Projeto **- Todos do Grupo**
+- [x] Tela de Operações web **- Diego**
+- [x] Tela do Holerite (Tabela) web **- Matheus**
   1. Busca
   2. Visualizar (Gerar pdf)
-- [ ] Tela de Holerites desktop **- Diego**
+- [x] Tela de Holerites desktop **- Diego**
   1. Visualizar todos (Em tabela)
   2. Busca
   3. Criar
   4. Editar
   5. Excluir (Validar se não tem nenhum modulo vinculado a um perfil para permitir)
-- [ ] Tela do Perfil mobile **- Diego**
-- [ ] Tela de Operações mobile **- Matheus**
-- [ ] Tela do Holerite (Tabela) mobile **- João**
+- [x] Tela do Perfil mobile **- Diego**
+- [x] Tela de Operações mobile **- Matheus**
+- [x] Tela do Holerite (Tabela) mobile **- João**
   1. Busca
   2. Visualizar (Gerar pdf)
 - [ ] O sistema deve ter relatórios parciais, diários e consolidados mensalmente, gráficos, alertas etc **- Equipe dev**
